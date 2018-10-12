@@ -8,4 +8,12 @@ https://railsguides.jp/active_support_core_extensions.html
 ```
 ```
 
+```
+
+```
+
+```
+
+```
+
 
